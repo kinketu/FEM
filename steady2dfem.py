@@ -16,7 +16,7 @@ def preprocessor(debug=False):
         gmsh = GMsh2D()
 
         # Load the .geo file.
-        geo = '2D_FEM.geo'
+        geo = 'steady2dfem.geo'
         gmsh.loadGeo(geo, 0.1, order=1)
 
         # Load nodes indices and coordinates.
