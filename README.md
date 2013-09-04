@@ -9,3 +9,5 @@ Dependencies
 openacoustics,
 numpy,
 scipy,
+fem
+fem2
