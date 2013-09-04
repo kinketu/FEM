@@ -6,7 +6,7 @@ The Finite Element Programs in Python.
 Dependencies
 ------------
 
-openacoustics
-numpy
-scipy
+openacoustics  
+numpy  
+scipy  
 matplotlib
