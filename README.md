@@ -1,12 +1,13 @@
 FEM
 ===
 
-A Finite Element Programs in Python
+Finite Element Programs in Python
 
 Author: kinketu
 
 License
 -------
+MIT License
 
 Dependencies
 ------------
