@@ -1,7 +1,8 @@
 FEM
 ===
 
-The Finite Element Programs in Python.
+A Finite Element Programs in Python
+
 Author: kinketu
 
 License
